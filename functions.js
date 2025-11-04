@@ -616,7 +616,7 @@ const allResposta = botBody.querySelector('.typebot-chat-view').querySelectorAll
 
 var cssIdMain = 'myCssMain';
 var cssIdShadow = 'myCssShadow';
-var cssHref = 'https://produto.comunidadeecom.com/chatecom_css_tema_whatsapp_android_dark.css?v=11';
+var cssHref = 'https://s3.origemviva.cloud/principal/chatecom_css_tema_whatsapp_android_dark.css';
 
 // FunÃ§Ã£o para adicionar o CSS em um determinado head
 function addCssToHead(cssId, head) {
