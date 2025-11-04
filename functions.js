@@ -778,7 +778,7 @@ if (!document.getElementById(cssId))
     link.id   = cssId;
     link.rel  = 'stylesheet';
     link.type = 'text/css';
-    link.href = 'https://produto.comunidadeecom.com/chatecom_css_tema_whatsapp_android_desktop.css?v=3';
+    link.href = 'https://s3.origemviva.cloud/principal/tema-desktop.css';
     link.media = 'all';
     head.appendChild(link);
 }
