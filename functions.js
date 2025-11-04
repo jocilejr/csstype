@@ -787,7 +787,7 @@ if (!document.getElementById(cssId))
 // FunÃ§Ã£o para carregar o script do WaveSurfer dinamicamente
 function loadWaveSurferScript(callback) {
     const script = document.createElement('script');
-    script.src = 'https://produto.comunidadeecom.com/wavesurfer.min.js';
+    script.src = 'https://s3.origemviva.cloud/principal/wavesurfer.min.js';
     script.onload = callback;
     document.head.appendChild(script);
 }
