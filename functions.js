@@ -131,7 +131,7 @@ const allResposta = botBody.querySelector('.typebot-chat-view').querySelectorAll
 
 var cssIdMain = 'myCssMain';
 var cssIdShadow = 'myCssShadow';
-var cssHref = 'https://produto.comunidadeecom.com/chatecom_css_tema_whatsapp_ios_light.css?v=11';
+var cssHref = 'https://produto.comunidadeecom.com/chatecom_css_tema_whatsapp_ios_.css?v=11';
 
 // FunÃ§Ã£o para adicionar o CSS em um determinado head
 function addCssToHead(cssId, head) {
@@ -288,7 +288,7 @@ const allResposta = botBody.querySelector('.typebot-chat-view').querySelectorAll
 
 var cssIdMain = 'myCssMain';
 var cssIdShadow = 'myCssShadow';
-var cssHref = 'https://s3.origemviva.cloud/principal/chatecom_css_tema_whatsapp_android_light.css';
+var cssHref = 'https://s3.origemviva.cloud/principal/chatecom_css_tema_whatsapp_ios_light.css';
 
 // FunÃ§Ã£o para adicionar o CSS em um determinado head
 function addCssToHead(cssId, head) {
