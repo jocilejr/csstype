@@ -778,7 +778,7 @@ if (!document.getElementById(cssId))
     link.id   = cssId;
     link.rel  = 'stylesheet';
     link.type = 'text/css';
-    link.href = 'https://s3.origemviva.cloud/principal/tema-desktop.css';
+    link.href = '';
     link.media = 'all';
     head.appendChild(link);
 }
