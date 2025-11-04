@@ -131,7 +131,7 @@ const allResposta = botBody.querySelector('.typebot-chat-view').querySelectorAll
 
 var cssIdMain = 'myCssMain';
 var cssIdShadow = 'myCssShadow';
-var cssHref = 'https://github.com/jocilejr/csstype/blob/main/chatecom_css_tema_whatsapp_ios_light.css';
+var cssHref = 'https://cdn.jsdelivr.net/gh/jocilejr/csstype@main/chatecom_css_tema_whatsapp_ios_light.css';
 
 // FunÃ§Ã£o para adicionar o CSS em um determinado head
 function addCssToHead(cssId, head) {
@@ -287,7 +287,7 @@ const allResposta = botBody.querySelector('.typebot-chat-view').querySelectorAll
 
 var cssIdMain = 'myCssMain';
 var cssIdShadow = 'myCssShadow';
-var cssHref = 'https://github.com/jocilejr/csstype/blob/main/chatecom_css_tema_whatsapp_android_light.css';
+var cssHref = 'https://cdn.jsdelivr.net/gh/jocilejr/csstype@main/chatecom_css_tema_whatsapp_android_light.css';
 
 // FunÃ§Ã£o para adicionar o CSS em um determinado head
 function addCssToHead(cssId, head) {
@@ -443,7 +443,7 @@ const allResposta = botBody.querySelector('.typebot-chat-view').querySelectorAll
 
 var cssIdMain = 'myCssMain';
 var cssIdShadow = 'myCssShadow';
-var cssHref = 'https://github.com/jocilejr/csstype/blob/main/chatecom_css_tema_whatsapp_ios_dark.css';
+var cssHref = 'https://cdn.jsdelivr.net/gh/jocilejr/csstype@main/chatecom_css_tema_whatsapp_ios_dark.css';
 
 // FunÃ§Ã£o para adicionar o CSS em um determinado head
 function addCssToHead(cssId, head) {
@@ -614,7 +614,7 @@ const allResposta = botBody.querySelector('.typebot-chat-view').querySelectorAll
 
 var cssIdMain = 'myCssMain';
 var cssIdShadow = 'myCssShadow';
-var cssHref = 'https://github.com/jocilejr/csstype/blob/main/chatecom_css_tema_whatsapp_android_dark.css';
+var cssHref = 'https://cdn.jsdelivr.net/gh/jocilejr/csstype@main/chatecom_css_tema_whatsapp_android_dark.css';
 
 // FunÃ§Ã£o para adicionar o CSS em um determinado head
 function addCssToHead(cssId, head) {
